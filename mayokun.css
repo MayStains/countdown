@@ -1,0 +1,54 @@
+img{
+    width: 500px;
+    border-radius: 100px;
+    float: left;
+}
+h1 {
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-variant: small-caps;
+    margin: 0%;
+}
+body{
+    background: linear-gradient(to left, rgb(251, 255, 0),#ff00ff)
+}
+
+html{
+    font-size: 10px;
+}   
+h2{
+    font-size: 30px;
+    color: darkblue;
+    margin: 0%;
+}
+p{
+    font-size: 20px;
+    margin: 5%;
+}
+
+
+.count{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.count h1{
+  color: #fff;
+  text-align: center;
+}
+
+.time-count p{
+    text-align: center;
+    color : #f4f3f8;
+} 
+
+.time-count{
+    background-color: #222020;
+    background: linear-gradient(to right, #ff00f2, rgb(229, 255, 0));
+    color: #fff;
+    height: 90px;
+    width: 70px;
+}
